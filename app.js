@@ -17,7 +17,7 @@ let fontSizeInc = 18;
 yesBtn.addEventListener("click", ()=>{
     noBtn.style.display = "none";
     yesBtn.style.display = "none";
-    text.innerHTML = "Oh yes, Let's meet!!";
+    text.innerHTML = "Oh yes, Let's meet!! Lovee you mera bachaaa 💖";
     text.style.fontSize = "55px";
     img.src = "./cat3.gif";
 })
